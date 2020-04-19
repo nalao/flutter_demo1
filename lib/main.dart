@@ -6,7 +6,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Hellogram123',
+      title: 'Hellogram',
       theme: ThemeData(primaryColor: Colors.white),
       home: MyHomePage(title: 'Hellogram'),
     );
